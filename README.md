@@ -1,5 +1,4 @@
 # [task-manager](https://github.com/BUPTlhuanyu/task-manager)
-[![](https://img.shields.io/badge/Powered%20by-jslib%20base-brightgreen.svg)](https://github.com/yanhaijing/jslib-base)
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/BUPTlhuanyu/task-manager/blob/master/LICENSE)
 [![Build Status](https://travis-ci.org/BUPTlhuanyu/task-manager.svg?branch=master)](https://travis-ci.org/BUPTlhuanyu/task-manager)
 [![npm](https://img.shields.io/badge/npm-0.1.0-orange.svg)](https://www.npmjs.com/package/task-manager-lhy)
