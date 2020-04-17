@@ -2,29 +2,7 @@
 [![](https://img.shields.io/badge/Powered%20by-jslib%20base-brightgreen.svg)](https://github.com/yanhaijing/jslib-base)
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/BUPTlhuanyu/task-manager/blob/master/LICENSE)
 [![Build Status](https://travis-ci.org/BUPTlhuanyu/task-manager.svg?branch=master)](https://travis-ci.org/BUPTlhuanyu/task-manager)
-[![Coveralls](https://img.shields.io/coveralls/BUPTlhuanyu/task-manager.svg)](https://coveralls.io/github/BUPTlhuanyu/task-manager)
 [![npm](https://img.shields.io/badge/npm-0.1.0-orange.svg)](https://www.npmjs.com/package/task-manager-lhy)
-[![NPM downloads](http://img.shields.io/npm/dm/task-manager-lhy.svg?style=flat-square)](http://www.npmtrends.com/task-manager-lhy)
-[![Percentage of issues still open](http://isitmaintained.com/badge/open/BUPTlhuanyu/task-manager.svg)](http://isitmaintained.com/project/BUPTlhuanyu/task-manager "Percentage of issues still open")
-
-最好用的 `JS|TS` 第三方库脚手架
-
-## :star: 特性
-
-- 支持ES6+或TypeScript编写源码，编译生成生产代码
-- 多环境支持（支持浏览器原生，支持AMD，CMD，支持Webpack，Rollup，fis等，支持Node）
-- 集成[jsmini](https://github.com/jsmini)
-
-> 注意: 如果不同时使用 `export` 与 `export default` 可打开 `legacy模式`，`legacy模式` 下的模块系统可以兼容 `ie6-8`，见rollup配置文件
-
-## :pill: 兼容性
-单元测试保证支持如下环境：
-
-| IE   | CH   | FF   | SF   | OP   | IOS  | Android   | Node  |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----- |
-| 6+   | 29+ | 55+  | 9+   | 50+  | 9+   | 4+   | 4+ |
-
-**注意：编译代码依赖ES5环境，对于ie6-8需要引入[es5-shim](http://github.com/es-shims/es5-shim/)才可以兼容，可以查看[demo/demo-global.html](./demo/demo-global.html)中的例子**
 
 ## :open_file_folder: 目录介绍
 
