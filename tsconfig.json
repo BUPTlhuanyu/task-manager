@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "target": "ESnext",
+        "module": "commonjs",
+        "declarationDir": "."
+    },
+    "include": [
+        "src/**/*.ts"
+    ],
+    "exclude": [
+        "node_modules",
+        "**.d.ts"
+    ]
+}
