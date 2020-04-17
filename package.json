@@ -19,7 +19,7 @@
     "build": "npm run clean && npm run build:self && npm run build:esm && npm run build:aio && npm run build:aio.min",
     "coveralls": "nyc report --reporter=text-lcov | coveralls"
   },
-  "author": "BUPTlhuanyu",
+  "author": "lhuanyu",
   "license": "MIT",
   "repository": {
     "type": "git",
