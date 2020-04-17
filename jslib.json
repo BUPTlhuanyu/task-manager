@@ -1,6 +1,6 @@
 {
     "name": "task-manager",
-    "npmname": "task-manager",
+    "npmname": "task-manager-lhy",
     "umdname": "TaskManager",
     "username": "BUPTlhuanyu",
     "type": "ts",

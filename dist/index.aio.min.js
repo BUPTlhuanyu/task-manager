@@ -1,5 +1,5 @@
 /*!
- * task-manager 0.1.0 (https://github.com/BUPTlhuanyu/task-manager)
+ * task-manager-lhy 0.1.1 (https://github.com/BUPTlhuanyu/task-manager)
  * API https://github.com/BUPTlhuanyu/task-manager/blob/master/doc/api.md
  * Copyright 2017-2020 BUPTlhuanyu. All Rights Reserved
  * Licensed under MIT (https://github.com/BUPTlhuanyu/task-manager/blob/master/LICENSE)

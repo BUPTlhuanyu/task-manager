@@ -3,8 +3,8 @@
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/BUPTlhuanyu/task-manager/blob/master/LICENSE)
 [![Build Status](https://travis-ci.org/BUPTlhuanyu/task-manager.svg?branch=master)](https://travis-ci.org/BUPTlhuanyu/task-manager)
 [![Coveralls](https://img.shields.io/coveralls/BUPTlhuanyu/task-manager.svg)](https://coveralls.io/github/BUPTlhuanyu/task-manager)
-[![npm](https://img.shields.io/badge/npm-0.1.0-orange.svg)](https://www.npmjs.com/package/task-manager)
-[![NPM downloads](http://img.shields.io/npm/dm/task-manager.svg?style=flat-square)](http://www.npmtrends.com/task-manager)
+[![npm](https://img.shields.io/badge/npm-0.1.0-orange.svg)](https://www.npmjs.com/package/task-manager-lhy)
+[![NPM downloads](http://img.shields.io/npm/dm/task-manager-lhy.svg?style=flat-square)](http://www.npmtrends.com/task-manager-lhy)
 [![Percentage of issues still open](http://isitmaintained.com/badge/open/BUPTlhuanyu/task-manager.svg)](http://isitmaintained.com/project/BUPTlhuanyu/task-manager "Percentage of issues still open")
 
 最好用的 `JS|TS` 第三方库脚手架
@@ -44,25 +44,25 @@
 通过npm下载安装代码
 
 ```bash
-$ npm install --save task-manager
+$ npm install --save task-manager-lhy
 ```
 
 如果你是node环境
 
 ```js
-var TaskManager = require('task-manager').default;
+var TaskManager = require('task-manager-lhy').default;
 ```
 
 如果你是webpack等环境
 
 ```js
-import TaskManager from 'task-manager';
+import TaskManager from 'task-manager-lhy';
 ```
 
 如果你是requirejs环境
 
 ```js
-requirejs(['node_modules/task-manager/dist/index.aio.js'], function (TaskManager) {
+requirejs(['node_modules/task-manager-lhy/dist/index.aio.js'], function (TaskManager) {
     // xxx
 })
 ```
@@ -70,7 +70,7 @@ requirejs(['node_modules/task-manager/dist/index.aio.js'], function (TaskManager
 如果你是浏览器环境
 
 ```html
-<script src="node_modules/task-manager/dist/index.aio.js"></script>
+<script src="node_modules/task-manager-lhy/dist/index.aio.js"></script>
 ```
 
 ## :bookmark_tabs: 文档
