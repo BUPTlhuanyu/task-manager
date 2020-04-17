@@ -8,7 +8,7 @@
 (function (global, factory) {
    typeof exports === 'object' && typeof module !== 'undefined' ? module.exports = factory() :
    typeof define === 'function' && define.amd ? define(factory) :
-   (global.TaskManager = factory());
+   (global = global || self, global.TaskManager = factory());
 }(this, (function () { 'use strict';
 
    class TaskManager {
@@ -129,14 +129,6 @@
            }
        }
    }
-
-   /*
-    * @Descripttion:
-    * @Author: lhuanyu
-    * @Date: 2020-04-16 11:17:54
-    * @LastEditors: lhuanyu
-    * @LastEditTime: 2020-04-17 10:28:27
-    */
 
    return TaskManager;
 
